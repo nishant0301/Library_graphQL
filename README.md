@@ -7,7 +7,7 @@ This is the Book Library app, where you can :
 * View other Books written by current author :clap:
 
 
-![Library](Capture.jpg)
+![Library](Capture.JPG)
 
 
 ### `Demo` ###
