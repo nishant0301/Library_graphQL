@@ -30,8 +30,8 @@ The CSS is coded separately in `src/index.css`
  * Clone the repository 
  * run `npm install` to install dependencies
  * run `npm run build` to create build folder
- * run `npm start`
- * go to https://localhost:3000 to view app
+ * run server
+ * go to https://localhost:5000 to view app
 
  ## `App Info` ##
  #### Created By : Ankit Pahwa
